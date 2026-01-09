@@ -23,7 +23,6 @@ torchmetrics
 encodec
 protobuf
 torchvision
-torchtext
 pesq
 pystoi
 torchdiffeq
